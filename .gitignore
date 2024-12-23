@@ -23,3 +23,15 @@ go.work.sum
 
 # env file
 .env
+
+# Binary output directory
+bin/
+
+# IDE specific files
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Local development files
+*.env.local
